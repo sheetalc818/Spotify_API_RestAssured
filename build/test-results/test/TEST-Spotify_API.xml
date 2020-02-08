@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Spotify_API" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-08T06:24:36" hostname="bridgelabz" time="5.045">
+  <properties/>
+  <testcase name="spotify_RestAssured_Automation" classname="Spotify_API" time="5.045"/>
+  <system-out><![CDATA[miq9x438ysuedi1io43rz0awv
+Playlist count: 1
+Playlist ID: 0kxKY937agS4nmVgGTtFBY
+{
+    "country": "IN",
+    "display_name": "sheetal",
+    "email": "sheetalbdz@gmail.com",
+    "explicit_content": {
+        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/miq9x438ysuedi1io43rz0awv"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/users/miq9x438ysuedi1io43rz0awv",
+    "id": "miq9x438ysuedi1io43rz0awv",
+    "images": [
+        
+    ],
+    "product": "open",
+    "type": "user",
+    "uri": "spotify:user:miq9x438ysuedi1io43rz0awv"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

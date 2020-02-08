@@ -1,0 +1,27 @@
+miq9x438ysuedi1io43rz0awv
+Playlist count: 1
+$Playlist ID: 0kxKY937agS4nmVgGTtFBY
+{
+    "country": "IN",
+    "display_name": "sheetal",
+%    "email": "sheetalbdz@gmail.com",
+    "explicit_content": {
+!        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+M        "spotify": "https://open.spotify.com/user/miq9x438ysuedi1io43rz0awv"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+J    "href": "https://api.spotify.com/v1/users/miq9x438ysuedi1io43rz0awv",
+'    "id": "miq9x438ysuedi1io43rz0awv",
+    "images": [
+	        
+    ],
+    "product": "open",
+    "type": "user",
+4    "uri": "spotify:user:miq9x438ysuedi1io43rz0awv"
+}
