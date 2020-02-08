@@ -63,7 +63,17 @@ public class Spotify_API {
         response.prettyPrint();
         response.then().assertThat().statusCode(200);
 
-
+        //Updating playlist information
+        Response response5 =RestAssured. given()
+                .header("Accept", "application/json")
+                .header("Content-Type", "application/json")
+                .header("Authorization",tokenValue)
+                .body("{\"name\":\"Marathi songs\",\"description\":\"songs are good\",\"public\":false}")
+                .when()
+                .put("https://api.spotify.com/v1/playlists/"+playlistID)
+                .then()
+                .extract().response();
+        response5.prettyPrint();
     }
 }
 
